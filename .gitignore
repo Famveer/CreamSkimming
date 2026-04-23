@@ -1,0 +1,14 @@
+data/sql/
+data/csv/
+data/features/
+
+.Rhistory
+Rplots.pdf
+*.pyc
+*.zip
+*.sql
+*.csv
+
+outputs/
+.ipynb_checkpoints/
+__pycache__/

@@ -1,0 +1,21 @@
+# python 3.12
+jupyter
+numpy
+pandas
+tqdm
+psycopg2
+nltk
+seaborn
+gensim
+wordcloud
+console_logging
+pyenchant
+scikit-learn
+lime
+pyarrow
+graphviz
+imblearn
+plotly
+pydantic-settings
+spacy
+shap

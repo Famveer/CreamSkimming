@@ -1,0 +1,4 @@
+[submodule "py/nlpToolkit"]
+	path = py/nlpToolkit
+	url = https://github.com/fmorenovr/nlpToolkit.git
+	branch = main
