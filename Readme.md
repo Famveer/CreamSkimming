@@ -19,7 +19,6 @@ To download the dataset, use [this link](https://www.cambridgecybercrime.uk/proc
 ## Data Preparation
 
 * Clone this repository:
-
   ```bash
   git clone https://github.com/famveer/CreamSkimming
   git submodule add -b main https://github.com/fmorenovr/nlpToolkit.git py/nlpToolkit
@@ -28,7 +27,7 @@ To download the dataset, use [this link](https://www.cambridgecybercrime.uk/proc
 
 * Download dataset [here]().  
 * Create a `.env` file, and add the path of the data downloaded and models.  
-  ```
+  ```bash
     DATA_PATH=/path_to/datasets/
     MODEL_PATH=/path_to/models/
     USER_PASSWD=admin_pass
