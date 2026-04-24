@@ -25,7 +25,7 @@ To download the dataset, use [this link](https://www.cambridgecybercrime.uk/proc
   git submodule update --remote
   ```
 
-* Download dataset [here]().  
+* Download dataset [here](https://drive.google.com/drive/folders/1YGsK0b2oviw5Qtsqn0EEY66YIUsYwLa5?usp=sharing).  
 * Create a `.env` file, and add the path of the data downloaded and models.  
   ```bash
     DATA_PATH=/path_to/datasets/
